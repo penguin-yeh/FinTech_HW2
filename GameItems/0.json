@@ -1,6 +1,6 @@
 {
   "name": "GOLD",
-  "image": "ipfs://QmSEqsc95tCDYe14wxVMt1KQHNukBhjfMCbkX5UmmuVw5P/0.png",
+  "image": "https://raw.githubusercontent.com/penguin-yeh/FinTech_HW2/main/GameItems/0.png",
   "description": "This NFT collection is created by ABCLabs",
   "attributes": [
     {
